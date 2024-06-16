@@ -40,4 +40,4 @@ Here are certain features of this site.
 If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
 Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
 
-Hi dodo
+Hi cami
